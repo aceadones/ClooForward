@@ -1,0 +1,32 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App specific build folders
+app/build/
+
+# Kotlin/Android build artifacts
+*.tab
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Mac OS X
+*.DS_Store
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar

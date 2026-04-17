@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cloowork.clooforward"
+    namespace = "com.nll.clooforward"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cloowork.clooforward"
+        applicationId = "com.nll.clooforward"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

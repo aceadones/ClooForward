@@ -129,7 +129,7 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 **4. Launch the app:**
 
 ```bash
-adb shell monkey -p com.cloowork.clooforward -c android.intent.category.LAUNCHER 1
+adb shell monkey -p com.nll.clooforward -c android.intent.category.LAUNCHER 1
 ```
 
 <br/>
